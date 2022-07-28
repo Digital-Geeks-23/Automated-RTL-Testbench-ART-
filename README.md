@@ -54,8 +54,10 @@ The software allow you to draw the state diagram and it will generate the verilo
 
 ### Design Test GUI 
 
+<br>
+<br>
+<br>
   
-  ![image](https://user-images.githubusercontent.com/82292548/181587388-f645783c-b56d-4c39-a976-15cb064c4d94.png)
-
+![image](https://user-images.githubusercontent.com/82292548/181603685-08c264db-07bb-460c-a35d-03c2ed07e4bc.png)
 
 
