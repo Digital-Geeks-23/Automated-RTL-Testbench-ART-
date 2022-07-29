@@ -27,26 +27,26 @@
 ### Resources Stage
 <br>
 <br>
-The rosources stage is the verilog files source for our design in the next gui stage.
-there is 3 main sources for verilog files in the software 
+The resources stage is the verilog files source for our design in the next gui stage.
+there are 3 main sources for verilog files in the software 
 
 #### Standard library 
 
 <br>
-The standard library is used to generate a verious configurable verilog files to be used in your design for example if you want to build a processor you will find memories, ALUs, Pipes ...etc 
+The standard library is used to generate verious configurable verilog files to be used in your design. For example: if you want to build a processor you will find memories, ALUs, Pipes ...etc 
 <br>
 <br>
 
 #### External Verilog Files 
 
 <br>
-you can write a verilog file by yourself and then you can import the file into the design 
+you can write a verilog file by yourself and then import the file into the design 
 <br>
 <br>
 
 #### Finite State Machines 
 
-The software allow you to draw the state diagram and it will generate the verilog file for the FSM but it still under development.
+The software allows you to draw the state diagram and it will generate the verilog file for the FSM but it still under development.
 
 <br>
 <br>
