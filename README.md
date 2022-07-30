@@ -28,6 +28,7 @@
 <br>
 The resources stage is the verilog files source for our design in the next gui stage.
 there are 3 main sources for verilog files in the software 
+<br>
 
 ## Standard library 
 
