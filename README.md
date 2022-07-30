@@ -86,3 +86,10 @@ You can use the files from the resources stage and by defining the inputs and ou
 | Four Bit adder |
 
 
+## Testing
+
+We can The Testing in ART has an analogy with control systems 
+
+|![image](https://user-images.githubusercontent.com/82292548/181863279-b9dd2569-4080-403c-b346-d1d54566e1a8.png)|
+|:--:|
+| Four Bit Adder Under Test|
