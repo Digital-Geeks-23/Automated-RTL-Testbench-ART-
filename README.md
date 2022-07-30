@@ -10,7 +10,7 @@
 ###### - Sohila Akram 
 ###### - Abd-El-Rahman Sabry 
 ###### - Abd-El-Rahman Mohamed Nour-El-Deen
-###### - Abd-El-Aziz Mohamed 
+###### - Abd-El-Aziz Mohamed Gamal-El-Deen
 ###### - Abdullah Said 
 
 <br>
