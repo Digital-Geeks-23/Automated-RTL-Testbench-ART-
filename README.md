@@ -5,7 +5,7 @@
 ![image](https://user-images.githubusercontent.com/82292548/181595137-640a89d9-30f7-402b-b3ae-74e779638404.png)
 
 
-#### ART is an EDA software tool that was developed by a group of EECE2023 students :  
+### ART is an EDA software tool that was developed by a group of EECE2023 students :  
 ###### - Aya Reda 
 ###### - Sohila Akram 
 ###### - Abd-El-Rahman Sabry 
