@@ -59,7 +59,9 @@ The software allows you to draw the state diagram and it will generate the veril
 
 ## Design Test GUI Stage
 
-You can use the files from the resources stage to build a schematic of your design 
+You can use the files from the resources stage and by defining the inputs and outputs you can use them to build a schematic of your design and the tool will generate all the required verilog files.
+<br>
+*if the whole design is based on the std lib it will be always synthesizable*
 
 <br>
 <br>
@@ -69,9 +71,18 @@ You can use the files from the resources stage to build a schematic of your desi
 |:--:|
 | One Cycle MIPS |
 
+<br>
+<br>
 
 |![image](https://user-images.githubusercontent.com/82292548/181862894-8c063966-4a06-4fce-96a2-9486dbcb94fd.png)|
 |:--:|
 | UART Transmitter |
+
+<br>
+<br>
+
+|![image](https://user-images.githubusercontent.com/82292548/181863107-24f03090-1dd9-4065-9c09-b74b421e9dcc.png)|
+|:--:|
+| Four Bit adder |
 
 
