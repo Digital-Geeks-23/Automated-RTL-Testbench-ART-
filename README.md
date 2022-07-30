@@ -25,22 +25,27 @@
 <br>
 <br>
 ## Resources Stage
-<br>
+
 The resources stage is the verilog files source for our design in the next gui stage.
 there are 3 main sources for verilog files in the software 
+
+<br>
+<br>
 <br>
 
 ## Standard library 
 
-<br>
 The standard library is used to generate verious configurable verilog files to be used in your design. For example: if you want to build a processor you will find memories, ALUs, Pipes ...etc 
+
+<br>
 <br>
 <br>
 
 ## External Verilog Files 
 
-<br>
 you can write a verilog file by yourself and then import the file into the design 
+
+<br>
 <br>
 <br>
 
