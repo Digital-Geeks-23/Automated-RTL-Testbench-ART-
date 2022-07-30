@@ -57,7 +57,9 @@ The software allows you to draw the state diagram and it will generate the veril
 <br>
 <br>
 
-## Design Test GUI 
+## Design Test GUI Stage
+
+You can use the files from the resources stage to build a schematic of your design 
 
 <br>
 <br>
@@ -66,5 +68,10 @@ The software allows you to draw the state diagram and it will generate the veril
 |![image](https://user-images.githubusercontent.com/82292548/181603685-08c264db-07bb-460c-a35d-03c2ed07e4bc.png)|
 |:--:|
 | One Cycle MIPS |
+
+
+|![image](https://user-images.githubusercontent.com/82292548/181862894-8c063966-4a06-4fce-96a2-9486dbcb94fd.png)|
+|:--:|
+| UART Transmitter |
 
 
