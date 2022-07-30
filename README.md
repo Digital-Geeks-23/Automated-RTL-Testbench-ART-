@@ -63,6 +63,8 @@ The software allows you to draw the state diagram and it will generate the veril
 <br>
 <br>
   
-![image](https://user-images.githubusercontent.com/82292548/181603685-08c264db-07bb-460c-a35d-03c2ed07e4bc.png)
+|![image](https://user-images.githubusercontent.com/82292548/181603685-08c264db-07bb-460c-a35d-03c2ed07e4bc.png)|
+|:--:|
+| * One Cycle MIPS * |
 
 
