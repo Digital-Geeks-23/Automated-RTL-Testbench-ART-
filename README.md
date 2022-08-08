@@ -85,11 +85,46 @@ You can use the files from the resources stage and by defining the inputs and ou
 |:--:|
 | Four Bit adder |
 
+<br>
+<br>
+<br>
 
 ## Testing
 
-We can The Testing in ART has an analogy with control systems 
+We can say The Testing in ART has an analogy with control systems 
 
 |![image](https://user-images.githubusercontent.com/82292548/181863279-b9dd2569-4080-403c-b346-d1d54566e1a8.png)|
 |:--:|
 | Four Bit Adder Under Test|
+
+<br>
+<br>
+<br>
+
+### Combinational Testing 
+<br>
+
+for example if i want to test a combinational circuit 
+
+<br>
+<br>
+<br>
+
+|![Slide1](https://user-images.githubusercontent.com/82292548/183480438-f961ecef-bcbb-4a97-86cb-5cc8f8dcb21a.PNG)|
+|:--:|
+| The combinational test|
+
+We can easily generate all the test vectors using ATSL (ART Testing Scripting Language) script which is a simple scripting language that is only used for the purpose of discribing the in out relationship 
+
+|![image](https://user-images.githubusercontent.com/82292548/183482442-ddeac318-cbaa-4222-8e52-00b14bd61c27.png)|
+|:--:|
+| The combinational test|
+
+<br>
+<br>
+<br>
+
+|![Slide3](https://user-images.githubusercontent.com/82292548/183480640-9c386281-7fca-482a-b9d3-04b7a4c30b4b.PNG)|
+|:--:|
+| The sequential test|
+
