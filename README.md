@@ -133,6 +133,12 @@ We can easily generate all the test vectors using ATSL (ART Testing Scripting La
 <br>
 <br>
 
+### Sequenctial Testing 
+
+<br>
+In sequenctial testing we can 
+<br>
+
 |![Slide3](https://user-images.githubusercontent.com/82292548/183480640-9c386281-7fca-482a-b9d3-04b7a4c30b4b.PNG)|
 |:--:|
 | The sequential test|
