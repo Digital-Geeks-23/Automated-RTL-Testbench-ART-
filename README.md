@@ -114,7 +114,7 @@ for example if i want to test a combinational circuit
 |:--:|
 | The combinational test|
 
-We can easily generate all the test vectors using ATSL (ART Testing Scripting Language) script which is a simple scripting language that is only used for the purpose of discribing the in out relationship 
+We can easily generate all the test vectors using ATSL (ART Testing Scripting Language) script which is a simple scripting language that is only used for the purpose of discribing the in out relationship and it has alot of built-in functions that will make it easier like (carry) in following example and others like (rand) that is used to generate a random testcases in a given range 
 
 |![image](https://user-images.githubusercontent.com/82292548/183482442-ddeac318-cbaa-4222-8e52-00b14bd61c27.png)|
 |:--:|
