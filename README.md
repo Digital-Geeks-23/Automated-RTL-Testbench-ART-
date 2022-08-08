@@ -120,6 +120,15 @@ We can easily generate all the test vectors using ATSL (ART Testing Scripting La
 |:--:|
 | The combinational test|
 
+|![image](https://user-images.githubusercontent.com/82292548/183484365-d115efab-d835-4a90-9555-2d061bc0511b.png)|
+|:--:|
+| The generated testcases|
+
+|![image](https://user-images.githubusercontent.com/82292548/183485058-ec3bd0db-5fae-415f-9d2b-2f02acd9a8ca.png)|
+|:--:|
+| The generated testcases|
+
+
 <br>
 <br>
 <br>
