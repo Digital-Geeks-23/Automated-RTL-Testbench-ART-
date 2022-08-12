@@ -18,7 +18,7 @@
 <br>
 <br>
 
-  The project aims to change the traditional way of developing RTL and testing its functionality, The software has three main stages Resources , Design-Test GUI and Output Stage you can also watch this bref [video about the software ](https://drive.google.com/file/d/16u4fu3__i1OCJmS3Fb07G-D56OvBuErb/view) 
+  The project aims to change the traditional way of developing RTL and testing its functionality, The software has three main stages Resources , Design-Test GUI and Output Stage you can also watch this bref [video about the software ](https://drive.google.com/file/d/1bkmGFnX-tNFf6AMr_Rgmt7jzRNeUYhQX/view?usp=sharing) 
   
   ![image](https://user-images.githubusercontent.com/82292548/181595721-9b931376-ae1b-4283-b709-a3e02b270712.png)
 <br>
