@@ -26,7 +26,7 @@
 <br>
 ## Resources Stage
 
-The resources stage is the verilog files source for our design in the next gui stage.
+The resources stage is the verilog HDL design files for the next GUI stage.
 there are 3 main sources for verilog files in the software 
 
 <br>
@@ -35,7 +35,7 @@ there are 3 main sources for verilog files in the software
 
 ## Standard library 
 
-The standard library is used to generate verious configurable verilog files to be used in your design. For example: if you want to build a processor you will find memories, ALUs, Pipes ...etc 
+The standard library is used to generate various configurable synthesizable verilog files to be used in your design. For example: if you want to build a processor you will find memories, ALUs, Pipes ...etc 
 
 <br>
 <br>
@@ -43,7 +43,7 @@ The standard library is used to generate verious configurable verilog files to b
 
 ## External Verilog Files 
 
-you can write a verilog file by yourself and then import the file into the design 
+You can write a verilog file yourself, then import it into the design GUI.
 
 <br>
 <br>
@@ -51,7 +51,7 @@ you can write a verilog file by yourself and then import the file into the desig
 
 ## Finite State Machines 
 
-The software allows you to draw the state diagram and it will generate the verilog file for the FSM but it still under development.
+The software allows you to draw the state diagram and it will generate the verilog file for the FSM [still under development].
 
 <br>
 <br>
@@ -59,7 +59,8 @@ The software allows you to draw the state diagram and it will generate the veril
 
 ## Design Test GUI Stage
 
-You can use the files from the resources stage and by defining the inputs and outputs you can use them to build a schematic of your design and the tool will generate all the required verilog files.
+You can use the files from the resources stage, define the inputs and outputs and connect them to build a schematic of your digital design blocks.
+The tool then will generate all the required verilog files (ex: top_module.v)
 <br>
 *if the whole design is based on the std lib it will be always synthesizable*
 
@@ -114,7 +115,7 @@ for example if i want to test a combinational circuit
 |:--:|
 | The combinational test|
 
-We can easily generate all the test vectors using ATSL (ART Testing Scripting Language) script which is a simple scripting language that is only used for the purpose of discribing the in out relationship and it has alot of built-in functions that will make it easier like (carry) in following example and others like (rand) that is used to generate a random testcases in a given range 
+We can easily generate all the test vectors using ATSL. ART Testing Scripting Language or ATSL is a simple scripting language that is only used for the purpose of describing the input/output relationship for easier testing. It has alot of built-in functions that will make it easier like (carry) in following example and others like (rand) that is used to generate a random testcases for a given range.
 
 |![image](https://user-images.githubusercontent.com/82292548/183482442-ddeac318-cbaa-4222-8e52-00b14bd61c27.png)|
 |:--:|
@@ -136,10 +137,15 @@ We can easily generate all the test vectors using ATSL (ART Testing Scripting La
 ### Sequenctial Testing 
 
 <br>
-In sequenctial testing we can 
+In sequential testing we can specify a relationship as out[i+1]=out[i]+1 and check if every out is equal to the previous value plus one.
 <br>
 
 |![Slide3](https://user-images.githubusercontent.com/82292548/183480640-9c386281-7fca-482a-b9d3-04b7a4c30b4b.PNG)|
 |:--:|
 | The sequential test|
 
+
+
+
+
+However long and complex tests you need to apply for your design, ART will help you save time, stop doing boring systematic stuff. Just write simple expressions or even the expected outputs at some given input and the testbench file will be generated for you in a blink.
