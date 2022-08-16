@@ -8,10 +8,12 @@
 ### ART is an EDA software tool that was developed by a group of EECE2023 students :  
 ###### - Aya Reda 
 ###### - Sohila Akram 
-###### - Abd-El-Rahman Sabry 
-###### - Abd-El-Rahman Mohamed Nour-El-Deen
-###### - Abd-El-Aziz Mohamed Gamal-El-Deen
 ###### - Abdullah Said 
+###### - Abd-El-Rahman Sabry
+###### - Abd-El-Aziz Mohamed Gamal-El-Deen
+###### - Abd-El-Rahman Mohamed Nour-El-Deen
+
+
 
 <br>
 <br>
