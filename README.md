@@ -147,7 +147,49 @@ In sequential testing we can specify a relationship as out[i+1]=out[i]+1 and che
 | The sequential test|
 
 
+<br>
+<br>
+<br>
 
+# Updated Vesion of ART
+
+## Install ART
+
+`git clone https://github.com/Digital-Geeks-23/ART-GP.git`
+
+## Required Library
+
+`pip install Pyqt5`
+
+
+## Run ART
+
+`python ART.py`
+
+
+
+# New ART Layout
+https://user-images.githubusercontent.com/102327986/191865241-ac60b5d9-5de1-4b7f-b93b-8eb464a9d793.mp4
+
+
+
+## Cellview
+https://user-images.githubusercontent.com/102327986/191864431-2454dd88-1ca7-49f0-849b-2cd6e63b3c0d.mp4
+
+
+
+## Hierarchy
+https://user-images.githubusercontent.com/102327986/191864525-70f794fc-dcc0-4e51-8706-50a8abf48c60.mp4
+
+
+
+## Inspector
+https://user-images.githubusercontent.com/102327986/191864548-ae19ca9b-59c5-4b9e-bfb2-bda56ba4dc34.mp4
+
+
+
+## Command line
+https://user-images.githubusercontent.com/102327986/191864489-65b487ad-061f-44ee-b63b-dc780900bd3b.mp4
 
 
 However long and complex tests you need to apply for your design, ART will help you save time, stop doing boring systematic stuff. Just write simple expressions or even the expected outputs at some given input and the testbench file will be generated for you in a blink.
