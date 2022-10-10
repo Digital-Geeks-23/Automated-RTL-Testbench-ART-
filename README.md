@@ -151,11 +151,8 @@ In sequential testing we can specify a relationship as out[i+1]=out[i]+1 and che
 <br>
 <br>
 
-# Updated Vesion of ART
+# Updated Version of ART
 
-## Install ART
-
-`git clone https://github.com/Digital-Geeks-23/ART-GP.git`
 
 ## Required Library
 
@@ -167,9 +164,8 @@ In sequential testing we can specify a relationship as out[i+1]=out[i]+1 and che
 `python ART.py`
 
 
-
 # New ART Layout
-https://user-images.githubusercontent.com/102327986/191865241-ac60b5d9-5de1-4b7f-b93b-8eb464a9d793.mp4
+https://user-images.githubusercontent.com/102327986/194791576-57d95e86-dc7b-44a4-b020-061ec1180185.mp4
 
 
 
